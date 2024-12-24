@@ -109,17 +109,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ali-abdelrady/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Ali-abdelrady/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ali-abdelrady/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ali-abdelrady/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Ali-abdelrady/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ali-abdelrady/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ali-abdelrady/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ali-abdelrady/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ali-abdelrady/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ali-abdelrady/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->
