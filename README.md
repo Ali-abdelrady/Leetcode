@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ali-abdelrady/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/0494-target-sum) |
 | [0729-my-calendar-i](https://github.com/Ali-abdelrady/Leetcode/tree/master/0729-my-calendar-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ali-abdelrady/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ali-abdelrady/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ali-abdelrady/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Sorting
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ali-abdelrady/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
