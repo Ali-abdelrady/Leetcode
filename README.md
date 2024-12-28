@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1738-maximal-network-rank](https://github.com/Ali-abdelrady/Leetcode/tree/master/1738-maximal-network-rank) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ali-abdelrady/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Backtracking
 |  |
