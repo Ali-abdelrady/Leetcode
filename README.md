@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ali-abdelrady/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Ali-abdelrady/Leetcode/tree/master/0383-ransom-note) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ali-abdelrady/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Ali-abdelrady/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Counting
 |  |
