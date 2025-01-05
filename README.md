@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ali-abdelrady/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ali-abdelrady/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/0494-target-sum) |
 | [0729-my-calendar-i](https://github.com/Ali-abdelrady/Leetcode/tree/master/0729-my-calendar-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ali-abdelrady/Leetcode/tree/master/0169-majority-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ali-abdelrady/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ali-abdelrady/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ali-abdelrady/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ali-abdelrady/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Ali-abdelrady/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ali-abdelrady/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ali-abdelrady/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ali-abdelrady/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Ali-abdelrady/Leetcode/tree/master/0383-ransom-note) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Ali-abdelrady/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Stack
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ali-abdelrady/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ali-abdelrady/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ali-abdelrady/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
