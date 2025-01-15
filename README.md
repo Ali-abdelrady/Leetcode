@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ali-abdelrady/Leetcode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/Ali-abdelrady/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ali-abdelrady/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ali-abdelrady/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0952-word-subsets](https://github.com/Ali-abdelrady/Leetcode/tree/master/0952-word-subsets) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Ali-abdelrady/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ali-abdelrady/Leetcode/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/Ali-abdelrady/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ali-abdelrady/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
