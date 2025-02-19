@@ -1,12 +1,12 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
-        res = []
+        res = ""
         letters = ['a','b','c']
         def dfs(str):
-            nonlocal k
+            nonlocal k , res
             if len(str) == n :
                 k -= 1
-                res.append(str)
+                res = str
                 return
             
             for ch in letters:
@@ -15,4 +15,4 @@ class Solution:
                 dfs(str + ch)
 
         dfs("")
-        return "" if k != 0 else res[-1]       
+        return "" if k != 0 else res       
