@@ -8,24 +8,23 @@ class FindElements:
 
     def __init__(self, root: Optional[TreeNode]):
         self.mp = {}
-        if root :
-            self.mp[0] = True
+        if root:
             root.val = 0
+            self.mp[0] = True
             def dfs(root):
                 if not root:
                     return
-
-                if root.left :
-                    newVal = 2 * root.val + 1
-                    root.left.val = newVal
-                    self.mp[newVal]  = True
+                
+                if root.left:
+                    root.left.val = 2 * root.val + 1
+                    self.mp[root.left.val] = True
                     dfs(root.left)
-                if root.right :
-                    newVal = 2 * root.val + 2
-                    root.right.val = newVal
-                    self.mp[newVal] = True
-                    dfs(root.right)    
-            dfs(root)
+                if root.right:
+                    root.right.val = 2 * root.val + 2
+                    self.mp[root.right.val] = True
+                    dfs(root.right)
+            dfs(root)    
+
 
     def find(self, target: int) -> bool:
         return target in self.mp
