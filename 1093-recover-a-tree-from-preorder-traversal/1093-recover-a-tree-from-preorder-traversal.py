@@ -7,17 +7,22 @@
 class Solution:
     def recoverFromPreorder(self, traversal: str) -> Optional[TreeNode]:
         nodes = []
+        n = len(traversal)
         i = 0 
-        while i < len(traversal):
+        while i < n:
+            # Count depth (number of '-')
             depth = 0 
-            while i < len(traversal) and traversal[i] == '-':
+            while i < n and traversal[i] == '-':
                 depth += 1
                 i += 1
-            str = ""
-            while i < len(traversal) and traversal[i].isdigit():
-                str += traversal[i]
+            
+            # Extract the number value
+            start = i
+            while i < n and traversal[i].isdigit():
                 i += 1
-            value = int(str)
+
+            value = int(traversal[start:i]) # Convert string Into Number
+
             nodes.append((value,depth))
 
         # Craete Root node
