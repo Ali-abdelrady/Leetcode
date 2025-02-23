@@ -8,39 +8,38 @@ class Solution:
     def recoverFromPreorder(self, traversal: str) -> Optional[TreeNode]:
         nodes = []
         n = len(traversal)
-        i = 0 
-        while i < n:
-            # Count depth (number of '-')
-            depth = 0 
+        i = 0
+        while i < n :
+            # count depth (number of '-')
+            depth = 0
             while i < n and traversal[i] == '-':
                 depth += 1
                 i += 1
             
             # Extract the number value
-            start = i
+            start  = i
             while i < n and traversal[i].isdigit():
                 i += 1
-
-            value = int(traversal[start:i]) # Convert string Into Number
-
+            
+            value = int(traversal[start : i])
             nodes.append((value,depth))
-
-        # Craete Root node
+        
+        # Create Root node
         root = TreeNode(nodes[0][0])
-        prevDepth = 0 
-        lastRoot = {0 : root}
+        prevDepth = 0
+        mp = {0 : root}
+
         for i in range(1 , len(nodes)):
             value , depth = nodes[i]
             newNode = TreeNode(value)
 
-            if depth > prevDepth :
-                lastRoot[depth - 1].left = newNode
-            else: 
-                lastRoot[depth - 1].right = newNode
+            if depth > prevDepth:
+                mp[depth - 1].left = newNode
+            else :
+                mp[depth - 1].right = newNode
             
-            lastRoot[depth] = newNode
             prevDepth = depth
-
-        return root
-
+            mp[depth] = newNode
         
+        return root 
+
