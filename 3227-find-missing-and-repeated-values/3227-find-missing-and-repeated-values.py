@@ -1,20 +1,17 @@
 class Solution:
     def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
-        n = len(grid)
-        size = n * n
+        n = len(grid[0]) ** 2
+        total_sum =int(n * (n+1) / 2)
+        mp = defaultdict(int)
+        a , b = 0 , 0 
+        sum = 0
+        for i in range(len(grid[0])):
+            for j in range(len(grid[0])):
+                if grid[i][j] in mp:
+                    a = grid[i][j]
+                else:
+                    mp[grid[i][j]] += 1
+                    sum += grid[i][j]
 
-        count = [0] * (size + 1)
-        
-        for i in range(n):
-            for j in range(n):
-                count[grid[i][j]] += 1
-
-        a, b = -1, -1
-        
-        for num in range(1, size + 1):
-            if count[num] == 2:
-                a = num
-            elif count[num] == 0:
-                b = num
-                
-        return [a, b]
+        b = total_sum - sum
+        return [a,b]        
