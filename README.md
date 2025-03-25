@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ali-abdelrady/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ali-abdelrady/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ali-abdelrady/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Ali-abdelrady/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ali-abdelrady/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ali-abdelrady/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ali-abdelrady/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
