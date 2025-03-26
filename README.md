@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Ali-abdelrady/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Ali-abdelrady/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ali-abdelrady/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ali-abdelrady/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ali-abdelrady/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ali-abdelrady/Leetcode/tree/master/0169-majority-element) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ali-abdelrady/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ali-abdelrady/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ali-abdelrady/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ali-abdelrady/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ali-abdelrady/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ali-abdelrady/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ali-abdelrady/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Ali-abdelrady/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Ali-abdelrady/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ali-abdelrady/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ali-abdelrady/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
