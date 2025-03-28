@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ali-abdelrady/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Ali-abdelrady/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ali-abdelrady/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ali-abdelrady/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ali-abdelrady/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ali-abdelrady/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ali-abdelrady/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ali-abdelrady/Leetcode/tree/master/0169-majority-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ali-abdelrady/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ali-abdelrady/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ali-abdelrady/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ali-abdelrady/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ali-abdelrady/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Ali-abdelrady/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ali-abdelrady/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Ali-abdelrady/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ali-abdelrady/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ali-abdelrady/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Ali-abdelrady/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ali-abdelrady/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ali-abdelrady/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ali-abdelrady/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ali-abdelrady/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ali-abdelrady/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Ali-abdelrady/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Ali-abdelrady/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ali-abdelrady/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ali-abdelrady/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ali-abdelrady/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Ali-abdelrady/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Ali-abdelrady/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ali-abdelrady/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ali-abdelrady/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
 |  |
@@ -427,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ali-abdelrady/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Ali-abdelrady/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ali-abdelrady/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ali-abdelrady/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Number Theory
 |  |
