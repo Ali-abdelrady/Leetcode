@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ali-abdelrady/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Ali-abdelrady/Leetcode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Ali-abdelrady/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ali-abdelrady/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ali-abdelrady/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ali-abdelrady/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ali-abdelrady/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ali-abdelrady/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3430-count-days-without-meetings](https://github.com/Ali-abdelrady/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ali-abdelrady/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
