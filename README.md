@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Ali-abdelrady/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ali-abdelrady/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ali-abdelrady/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0768-partition-labels](https://github.com/Ali-abdelrady/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ali-abdelrady/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ali-abdelrady/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Ali-abdelrady/Leetcode/tree/master/0952-word-subsets) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Ali-abdelrady/Leetcode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ali-abdelrady/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ali-abdelrady/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/Ali-abdelrady/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ali-abdelrady/Leetcode/tree/master/0383-ransom-note) |
+| [0768-partition-labels](https://github.com/Ali-abdelrady/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Ali-abdelrady/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ali-abdelrady/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Ali-abdelrady/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Ali-abdelrady/Leetcode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ali-abdelrady/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Ali-abdelrady/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ali-abdelrady/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
