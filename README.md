@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Ali-abdelrady/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/Ali-abdelrady/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ali-abdelrady/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Ali-abdelrady/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ali-abdelrady/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ali-abdelrady/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ali-abdelrady/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ali-abdelrady/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ali-abdelrady/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
 | ------- |
