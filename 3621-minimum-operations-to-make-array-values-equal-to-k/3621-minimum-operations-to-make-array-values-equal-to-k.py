@@ -5,7 +5,6 @@ class Solution:
         for num in nums:
             st.add(num)
         
-
         if min(st) < k :
             return -1 
 
