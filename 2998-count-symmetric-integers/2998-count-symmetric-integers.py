@@ -6,14 +6,8 @@ class Solution:
             if len(num) % 2:
                 return False
             
-            left_sum , right_sum = 0 , 0
-            i , j = 0 , len(num) - 1
-            while(i < j):
-                left_sum += int(num[i])
-                right_sum += int(num[j])
-                i += 1
-                j -= 1
-            return left_sum == right_sum
+            n = len(num) // 2
+            return sum(int(d) for d in num[:n]) == sum(int(d) for d in num[n:])
 
         for num in range(low , high + 1):
             if is_symmetric(num):
