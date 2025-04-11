@@ -6,14 +6,9 @@ class Solution:
                 return False
             
             # 1234 => left_sum , right
-            left_sum , right_sum = 0 , 0 
-            i , j = 0 , len(num) - 1
-            while(i < j):
-                left_sum += int(num[i])
-                right_sum += int(num[j])
-                i += 1
-                j -= 1
-            return left_sum == right_sum
+            # [1,2,3,4,5] => sum
+            n = len(num) // 2 
+            return sum(int(d) for d in num[:n]) == sum(int(d) for d in num[n:])
         res = 0
         for i in range(low,high + 1):
             if is_symmetric(i):
