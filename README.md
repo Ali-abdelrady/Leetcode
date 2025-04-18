@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Ali-abdelrady/Leetcode/tree/master/0038-count-and-say) |
 | [0290-word-pattern](https://github.com/Ali-abdelrady/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ali-abdelrady/Leetcode/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/Ali-abdelrady/Leetcode/tree/master/0768-partition-labels) |
