@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Ali-abdelrady/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ali-abdelrady/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Ali-abdelrady/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Ali-abdelrady/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Ali-abdelrady/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ali-abdelrady/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ali-abdelrady/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/Ali-abdelrady/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ali-abdelrady/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Ali-abdelrady/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ali-abdelrady/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
