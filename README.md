@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ali-abdelrady/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/Ali-abdelrady/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/Ali-abdelrady/Leetcode/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/Ali-abdelrady/Leetcode/tree/master/0729-my-calendar-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Ali-abdelrady/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Ali-abdelrady/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ali-abdelrady/Leetcode/tree/master/0494-target-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Ali-abdelrady/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ali-abdelrady/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ali-abdelrady/Leetcode/tree/master/0038-count-and-say) |
 | [0290-word-pattern](https://github.com/Ali-abdelrady/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ali-abdelrady/Leetcode/tree/master/0383-ransom-note) |
+| [0474-ones-and-zeroes](https://github.com/Ali-abdelrady/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/Ali-abdelrady/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Ali-abdelrady/Leetcode/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Ali-abdelrady/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
