@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ali-abdelrady/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ali-abdelrady/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ali-abdelrady/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ali-abdelrady/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ali-abdelrady/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ali-abdelrady/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Ali-abdelrady/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ali-abdelrady/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Ali-abdelrady/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ali-abdelrady/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ali-abdelrady/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ali-abdelrady/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Ali-abdelrady/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
